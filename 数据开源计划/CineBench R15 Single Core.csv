@@ -1,0 +1,1466 @@
+Cinebench R15 (Single-Core),
+"Cinebench R15 is the successor of Cinebench 11.5 and is also based on the Cinema 4 Suite. Cinema 4 is a worldwide used software to create 3D forms. The single-core test only uses one CPU core, the amount of cores or hyperthreading ability doesn't count.?",
+Intel Core i9-9900KF,219
+8x 3.60 GHz (5.00 GHz) HT,
+Intel Core i9-9900,219
+8x 3.10 GHz (5.00 GHz) HT,
+Intel Core i7-8086K,219
+6x 3.70 GHz (5.00 GHz) HT,
+Intel Core i9-9900K,219
+8x 3.60 GHz (5.00 GHz) HT,
+Intel Core i7-9700KF,214
+8x 3.60 GHz (4.90 GHz),
+Intel Core i7-9700K,214
+8x 3.60 GHz (4.90 GHz),
+AMD Ryzen 9 3900X,213
+12x 3.80 GHz (4.60 GHz) HT,
+Intel Core i9-8950HK,211
+6x 2.90 GHz (4.80 GHz) HT,
+Intel Core i7-8700K,208
+6x 3.70 GHz (4.70 GHz) HT,
+Intel Core i5-9600K,204
+6x 3.70 GHz (4.60 GHz),
+Intel Core i5-9600KF,204
+6x 3.70 GHz (4.60 GHz),
+AMD Ryzen 7 3700X,204
+8x 3.60 GHz (4.40 GHz) HT,
+Intel Core i7-8700,203
+6x 3.20 GHz (4.60 GHz) HT,
+Intel Core i7-7700K,200
+4x 4.20 GHz (4.50 GHz) HT,
+Intel Core i7-7740X,200
+4x 4.30 GHz (4.50 GHz) HT,
+Intel Core i7-7820X,197
+8x 3.60 GHz (4.50 GHz) HT,
+AMD Ryzen 5 3600,196
+6x 3.60 GHz (4.20 GHz) HT,
+Intel Xeon E5-1680 v3,193
+8x 3.20 GHz (3.80 GHz) HT,
+Intel Core i9-7900X,188
+10x 3.30 GHz (4.30 GHz) HT,
+Intel Core i9-7940X,188
+14x 3.10 GHz (4.30 GHz) HT,
+Intel Core i9-7920X,188
+12x 2.90 GHz (4.30 GHz) HT,
+Intel Xeon E3-1280 v6,187
+4x 3.90 GHz (4.20 GHz) HT,
+Intel Xeon E3-1270 v6,186
+4x 3.80 GHz (4.20 GHz) HT,
+Intel Core i5-9600,186
+6x 3.10 GHz (4.60 GHz),
+Intel Xeon E3-1275 v6,186
+4x 3.80 GHz (4.20 GHz) HT,
+Intel Core i7-7700,186
+4x 3.60 GHz (4.20 GHz) HT,
+Intel Xeon Gold 6144,184
+8x 3.50 GHz (4.20 GHz) HT,
+Intel Core i9-7960X,184
+16x 2.80 GHz (4.20 GHz) HT,
+Intel Core i9-7980XE,184
+18x 2.60 GHz (4.20 GHz) HT,
+Intel Core i7-7800X,184
+6x 3.50 GHz (4.20 GHz) HT,
+Intel Xeon Gold 6146,183
+12x 3.20 GHz (4.20 GHz) HT,
+Intel Core i5-8600K,183
+6x 3.60 GHz (4.30 GHz),
+Intel Core i7-8850H,182
+6x 2.60 GHz (4.30 GHz) HT,
+Intel Core i5-9500F,182
+6x 3.00 GHz (4.40 GHz),
+Intel Core i5-9500,182
+6x 3.00 GHz (4.40 GHz),
+Intel Xeon E3-1240 v6,182
+4x 3.70 GHz (4.10 GHz) HT,
+Intel Xeon E3-1245 v6,182
+4x 3.70 GHz (4.10 GHz) HT,
+Intel Core i3-7350K,181
+2x 4.20 GHz HT,
+AMD Ryzen Threadripper 2950X,180
+16x 3.50 GHz (4.40 GHz) HT,
+Intel Core i5-7640X,180
+4x 4.00 GHz (4.20 GHz) HT,
+Intel Core i7-8750H,180
+6x 2.20 GHz (4.10 GHz) HT,
+Intel Core i7-6700K,180
+4x 4.00 GHz (4.20 GHz) HT,
+Intel Core i5-7600K,179
+4x 3.80 GHz (4.20 GHz),
+Intel Core i7-8809G,179
+4x 3.10 GHz (4.20 GHz) HT,
+Intel Core i7-8565U,178
+4x 1.80 GHz (4.60 GHz) HT,
+Intel Core i5-8400H,178
+4x 2.50 GHz (4.20 GHz) HT,
+Intel Core i5-8600,178
+6x 3.10 GHz (4.20 GHz),
+Intel Core i5-9400,177
+6x 2.90 GHz (4.10 GHz),
+Intel Xeon E5-1660 v3,177
+8x 3.00 GHz (3.50 GHz) HT,
+AMD Ryzen 7 2700X,177
+8x 3.70 GHz (4.00 GHz) HT,
+Intel Core i5-9400F,177
+6x 2.90 GHz (4.10 GHz),
+Intel Core i7-5960X,177
+8x 3.00 GHz (3.50 GHz) HT,
+Intel Core i3-7320,176
+2x 4.10 GHz HT,
+AMD Ryzen Threadripper 2920X,176
+12x 3.50 GHz (4.30 GHz) HT,
+Intel Core i7-8700T,176
+6x 2.40 GHz (4.00 GHz) HT,
+AMD Ryzen 5 2600X,176
+6x 3.60 GHz (4.20 GHz) HT,
+Intel Core i7-8650U,175
+4x 1.90 GHz (4.20 GHz) HT,
+Intel Core i5-7600,175
+4x 3.50 GHz (4.10 GHz),
+AMD Ryzen Threadripper 2990WX,174
+32x 3.00 GHz (4.20 GHz) HT,
+Intel Core i7-8705G,174
+4x 3.10 GHz (4.10 GHz) HT,
+Intel Core i7-8706G,174
+4x 3.10 GHz (4.10 GHz) HT,
+Intel Core i5-8500,174
+6x 3.00 GHz (4.10 GHz),
+Intel Core i7-8709G,174
+4x 3.10 GHz (4.10 GHz) HT,
+Intel Core i7-7920HQ,174
+4x 3.10 GHz (4.10 GHz) HT,
+AMD Ryzen Threadripper 1920X,173
+12x 3.50 GHz (4.00 GHz) HT,
+Intel Xeon E3-1230 v6,173
+4x 3.50 GHz (3.90 GHz) HT,
+AMD Ryzen Threadripper 2970WX,173
+24x 3.00 GHz (4.20 GHz) HT,
+Intel Core i3-7300,172
+2x 4.00 GHz HT,
+Intel Xeon E5-2618L v3,172
+8x 2.30 GHz (3.40 GHz) HT,
+Intel Xeon E5-2640 v3,172
+8x 2.60 GHz (3.40 GHz) HT,
+Intel Xeon E3-1270 v5,172
+4x 3.60 GHz (4.00 GHz) HT,
+Intel Xeon E3-1275 v5,172
+4x 3.60 GHz (4.00 GHz) HT,
+Intel Xeon E3-1280 v5,172
+4x 3.70 GHz (4.00 GHz) HT,
+Intel Core i7-7567U,171
+2x 3.50 GHz (4.00 GHz) HT,
+Intel Core i5-8265U,171
+4x 1.60 GHz (3.90 GHz) HT,
+Intel Core i7-6700,171
+4x 3.40 GHz (4.00 GHz) HT,
+Intel Core i3-8350K,171
+4x 4.00 GHz,
+Intel Core i7-7660U,170
+2x 2.50 GHz (4.00 GHz) HT,
+Intel Core i5-8300H,169
+4x 2.30 GHz (4.00 GHz) HT,
+Intel Core i7-4790K,169
+4x 4.00 GHz (4.40 GHz) HT,
+Intel Core i7-7700T,168
+4x 2.90 GHz (3.80 GHz) HT,
+AMD Ryzen Threadripper 1950X,168
+16x 3.40 GHz (4.00 GHz) HT,
+Intel Xeon E3-1240 v5,168
+4x 3.50 GHz (3.90 GHz) HT,
+Intel Core i3-7100,168
+2x 3.90 GHz HT,
+Intel Xeon E3-1245 v5,168
+4x 3.50 GHz (3.90 GHz) HT,
+Intel Pentium G5600,168
+2x 3.90 GHz HT,
+AMD Ryzen Threadripper 1900X,168
+8x 3.80 GHz (4.00 GHz) HT,
+Intel Xeon E3-1260L v5,168
+4x 2.90 GHz (3.90 GHz) HT,
+Intel Core i7-8550U,167
+4x 1.80 GHz (4.00 GHz) HT,
+Intel Core i5-8350U,167
+4x 1.70 GHz (3.60 GHz) HT,
+Intel Core i5-6600,166
+4x 3.30 GHz (3.90 GHz),
+Intel Core i5-6600K,166
+4x 3.50 GHz (3.90 GHz),
+Intel Core i7-6785R,166
+4x 3.30 GHz (3.90 GHz) HT,
+Intel Core i7-7600U,166
+2x 2.80 GHz (3.90 GHz) HT,
+Intel Core i7-7820HQ,166
+4x 2.90 GHz (3.90 GHz) HT,
+Intel Core i7-7820HK,166
+4x 2.90 GHz (3.90 GHz) HT,
+Intel Xeon Platinum 8176,165
+28x 2.10 GHz (3.80 GHz) HT,
+Intel Xeon Platinum 8176M,165
+28x 2.10 GHz (3.80 GHz) HT,
+Intel Xeon Platinum 8180,165
+28x 2.50 GHz (3.80 GHz) HT,
+Intel Xeon Platinum 8176F,165
+28x 2.10 GHz (3.80 GHz) HT,
+Intel Xeon Platinum 8180M,165
+28x 2.50 GHz (3.80 GHz) HT,
+AMD Ryzen 7 2700,164
+8x 3.20 GHz (3.80 GHz) HT,
+AMD Ryzen 5 2600,164
+6x 3.40 GHz (3.90 GHz) HT,
+Intel Xeon E3-1230 v5,163
+4x 3.40 GHz (3.80 GHz) HT,
+AMD Ryzen 7 1800X,163
+8x 3.60 GHz (4.00 GHz) HT,
+Intel Pentium G5500,163
+2x 3.80 GHz HT,
+Intel Xeon E3-1285 v3,162
+4x 3.60 GHz (4.00 GHz) HT,
+Intel Xeon Gold 6136,162
+12x 3.00 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6128,162
+6x 3.40 GHz (3.70 GHz) HT,
+Intel Core i5-8305G,162
+4x 2.80 GHz (3.80 GHz) HT,
+Intel Core i5-8259U,162
+4x 2.30 GHz (3.80 GHz) HT,
+Intel Xeon E5-2630 v3,162
+8x 2.40 GHz (3.20 GHz) HT,
+Intel Xeon Gold 6154,162
+18x 3.00 GHz (3.70 GHz) HT,
+Intel Xeon Gold 5122,162
+4x 3.60 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6134M,162
+8x 3.20 GHz (3.70 GHz) HT,
+Intel Xeon E3-1280 v3,162
+4x 3.60 GHz (4.00 GHz) HT,
+Intel Xeon Platinum 8156,162
+4x 3.60 GHz (3.70 GHz) HT,
+Intel Xeon Platinum 8158,162
+12x 3.00 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6134,162
+8x 3.20 GHz (3.70 GHz) HT,
+Intel Core i7-7700HQ,162
+4x 2.80 GHz (3.80 GHz) HT,
+Intel Core i5-7500,162
+4x 3.40 GHz (3.80 GHz),
+Intel Xeon Gold 6140,161
+18x 2.30 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6138T,161
+20x 2.00 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6142,161
+16x 2.60 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6138,161
+20x 2.00 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6142F,161
+16x 2.60 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6142M,161
+16x 2.60 GHz (3.70 GHz) HT,
+Intel Core i5-8400,161
+6x 2.80 GHz (3.80 GHz),
+Intel Core i7-6920HQ,161
+4x 2.90 GHz (3.80 GHz) HT,
+Intel Xeon Gold 6132,161
+14x 2.60 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6152,161
+22x 2.10 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6148,161
+20x 2.40 GHz (3.70 GHz) HT,
+Intel Core i7-7560U,161
+2x 2.40 GHz (3.80 GHz) HT,
+Intel Xeon Gold 6150,161
+18x 2.70 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6148F,161
+20x 2.40 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6140M,161
+18x 2.30 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6138F,161
+20x 2.00 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6130T,161
+16x 2.10 GHz (3.70 GHz) HT,
+Intel Xeon Platinum 8160,161
+24x 2.10 GHz (3.70 GHz) HT,
+Intel Xeon Platinum 8160M,161
+24x 2.10 GHz (3.70 GHz) HT,
+Intel Xeon Platinum 8160T,161
+24x 2.10 GHz (3.70 GHz) HT,
+Intel Xeon E3-1535M v5,161
+4x 2.90 GHz (3.80 GHz) HT,
+Intel Xeon Platinum 8164,161
+26x 2.00 GHz (3.70 GHz) HT,
+Intel Xeon Platinum 8170,161
+26x 2.10 GHz (3.70 GHz) HT,
+Intel Xeon Platinum 8170M,161
+26x 2.10 GHz (3.70 GHz) HT,
+Intel Xeon Platinum 8160F,161
+24x 2.10 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6130F,161
+16x 2.10 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6130,161
+16x 2.10 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6126T,161
+12x 2.60 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6126F,161
+12x 2.60 GHz (3.70 GHz) HT,
+Intel Xeon Gold 6126,161
+12x 2.60 GHz (3.70 GHz) HT,
+Intel Xeon Platinum 8168,161
+24x 2.70 GHz (3.70 GHz) HT,
+Intel Core i3-8145U,160
+2x 2.10 GHz (3.90 GHz) HT,
+Intel Core i3-6320,160
+2x 3.90 GHz HT,
+Intel Pentium G4620,159
+2x 3.70 GHz HT,
+Intel Pentium G5400,159
+2x 3.70 GHz HT,
+Intel Core i7-3960X,159
+6x 3.30 GHz (3.90 GHz) HT,
+Intel Core i5-9600T,159
+6x 2.30 GHz (3.90 GHz),
+Intel Xeon E3-1225 v6,158
+4x 3.30 GHz (3.70 GHz),
+Intel Core i3-8300,158
+4x 3.70 GHz,
+Intel Core i5-7287U,158
+2x 3.30 GHz (3.70 GHz) HT,
+Intel Core i7-5950HQ,157
+4x 2.90 GHz (3.80 GHz) HT,
+Intel Core i5-7600T,157
+4x 2.80 GHz (3.70 GHz),
+Intel Core i5-8250U,157
+4x 1.60 GHz (3.40 GHz) HT,
+Intel Xeon E3-1505M v5,157
+4x 2.80 GHz (3.70 GHz) HT,
+Intel Core i5-6685R,156
+4x 3.20 GHz (3.80 GHz),
+Intel Core i3-6300,156
+2x 3.80 GHz HT,
+Intel Core i5-8600T,156
+6x 2.30 GHz (3.70 GHz),
+Intel Core i5-7440HQ,155
+4x 2.80 GHz (3.80 GHz),
+Intel Core i5-9500T,155
+6x 2.20 GHz (3.70 GHz),
+AMD Ryzen 7 1700X,155
+8x 3.40 GHz (3.80 GHz) HT,
+Intel Xeon E5-2637 v4,155
+4x 3.50 GHz (3.70 GHz) HT,
+Intel Pentium G4600,155
+2x 3.60 GHz HT,
+AMD Ryzen 5 2400G,155
+4x 3.60 GHz (3.90 GHz) HT,
+Intel Xeon E5-2643 v4,155
+6x 3.40 GHz (3.70 GHz) HT,
+Intel Xeon E3-1225 v5,155
+4x 3.00 GHz (3.70 GHz),
+Intel Core i7-6700T,154
+4x 2.80 GHz (3.60 GHz) HT,
+Intel Core i3-8100,154
+4x 3.60 GHz,
+Intel Xeon E5-2687W v2,154
+8x 3.40 GHz (4.00 GHz) HT,
+Intel Core i7-5775R,154
+4x 3.30 GHz (3.80 GHz) HT,
+Intel Core i5-6500,153
+4x 3.20 GHz (3.60 GHz),
+Intel Core i3-4370,153
+2x 3.80 GHz HT,
+Intel Xeon E5-1620 v2,153
+4x 3.70 GHz (3.90 GHz) HT,
+Intel Core i7-6567U,153
+2x 3.30 GHz (3.60 GHz) HT,
+Intel Xeon E3-1275 v3,153
+4x 3.50 GHz (3.90 GHz) HT,
+Intel Xeon E3-1270 v3,153
+4x 3.50 GHz (3.90 GHz) HT,
+Intel Core i5-7360U,153
+2x 2.30 GHz (3.60 GHz) HT,
+Intel Pentium G4520,153
+2x 3.60 GHz,
+Intel Core i5-4690S,152
+4x 3.20 GHz (3.90 GHz),
+Intel Core i5-4690K,152
+4x 3.50 GHz (3.90 GHz),
+Intel Core i7-6950X,152
+10x 3.00 GHz (3.50 GHz) HT,
+Intel Core i3-6100,152
+2x 3.70 GHz HT,
+Intel Core i7-6820HQ,152
+4x 2.70 GHz (3.60 GHz) HT,
+Intel Core i5-4690,152
+4x 3.50 GHz (3.90 GHz),
+Intel Core i7-6820HK,152
+4x 2.70 GHz (3.60 GHz) HT,
+Intel Xeon E5-2667 v4,151
+8x 3.20 GHz (3.60 GHz) HT,
+Intel Xeon E3-1245 v3,151
+4x 3.40 GHz (3.80 GHz) HT,
+Intel Core i7-4960X,151
+6x 3.60 GHz (4.00 GHz) HT,
+AMD Ryzen 7 Pro 1700,151
+8x 3.00 GHz (3.70 GHz) HT,
+AMD Ryzen 7 Pro 1700X,151
+8x 3.50 GHz (3.70 GHz) HT,
+AMD Ryzen 5 Pro 1500,151
+4x 3.50 GHz (3.70 GHz) HT,
+AMD Ryzen 3 Pro 1300,151
+4x 3.50 GHz (3.70 GHz),
+AMD Ryzen 7 1700,151
+8x 3.00 GHz (3.70 GHz) HT,
+AMD Ryzen 5 1600X,151
+6x 3.30 GHz (3.70 GHz) HT,
+Intel Xeon E5-1660 v2,151
+6x 3.70 GHz (4.00 GHz) HT,
+Intel Xeon E5-2667 v2,151
+8x 3.30 GHz (4.00 GHz) HT,
+Intel Core i3-7300T,151
+2x 3.50 GHz HT,
+Intel Xeon E3-1240 v3,151
+4x 3.40 GHz (3.80 GHz) HT,
+AMD Ryzen 5 1500X,151
+4x 3.50 GHz (3.70 GHz) HT,
+Intel Pentium G4560,151
+2x 3.50 GHz HT,
+Intel Core i5-9400T,150
+6x 1.80 GHz (3.40 GHz),
+Intel Xeon E5-2697 v4,150
+18x 2.30 GHz (3.60 GHz) HT,
+Intel Xeon E5-2697A v4,150
+16x 2.60 GHz (3.60 GHz) HT,
+Intel Xeon E5-2699 v4,150
+22x 2.20 GHz (3.60 GHz) HT,
+Intel Xeon E5-2698 v4,150
+20x 2.20 GHz (3.60 GHz) HT,
+Intel Core i7-5775C,150
+4x 3.30 GHz (3.70 GHz) HT,
+Intel Xeon E3-1220 v6,149
+4x 3.00 GHz (3.50 GHz),
+Intel Core i7-7500U,149
+2x 2.70 GHz (3.50 GHz) HT,
+Intel Core i5-7267U,149
+2x 3.10 GHz (3.50 GHz) HT,
+Intel Core i5-7300U,149
+2x 2.60 GHz (3.50 GHz) HT,
+Intel Core i7-5850HQ,149
+4x 2.70 GHz (3.60 GHz) HT,
+Intel Core i5-6287U,149
+2x 3.10 GHz (3.50 GHz) HT,
+Intel Pentium G4500,149
+2x 3.50 GHz,
+Intel Core i5-6600T,149
+4x 2.70 GHz (3.50 GHz),
+Intel Core i5-7400,149
+4x 3.00 GHz (3.50 GHz),
+Intel Core i3-8109U,149
+2x 3.00 GHz (3.60 GHz) HT,
+Intel Core i3-4360,149
+2x 3.70 GHz HT,
+Intel Core i7-4900MQ,148
+4x 2.80 GHz (3.80 GHz) HT,
+Intel Core i5-8500T,148
+6x 2.10 GHz (3.50 GHz),
+Intel Xeon E3-1231 v3,148
+4x 3.40 GHz (3.80 GHz) HT,
+Intel Core i7-6770HQ,148
+4x 2.60 GHz (3.50 GHz) HT,
+Intel Core i7-6700HQ,148
+4x 2.60 GHz (3.50 GHz) HT,
+Intel Core i5-4670,148
+4x 3.40 GHz (3.80 GHz),
+Intel Core i5-4670K,148
+4x 3.40 GHz (3.80 GHz),
+AMD Ryzen 5 Pro 1600,147
+6x 3.20 GHz (3.60 GHz) HT,
+AMD Ryzen 5 1600,147
+6x 3.20 GHz (3.60 GHz) HT,
+Intel Core i5-6585R,147
+4x 2.80 GHz (3.60 GHz),
+Intel Xeon E5-2630L v3,147
+8x 1.80 GHz (2.90 GHz) HT,
+Intel Xeon E3-1220 v5,147
+4x 3.00 GHz (3.50 GHz),
+AMD Ryzen 3 1300X,146
+4x 3.40 GHz (3.90 GHz),
+Intel Xeon E5-1650 v3,146
+6x 3.50 GHz (3.80 GHz) HT,
+AMD Ryzen 7 3700U,146
+4x 2.30 GHz (4.00 GHz) HT,
+Intel Core i5-5675R,146
+4x 3.10 GHz (3.60 GHz),
+Intel Xeon E5-2690 v4,146
+14x 2.60 GHz (3.50 GHz) HT,
+Intel Core i5-5675C,146
+4x 3.10 GHz (3.60 GHz),
+Intel Xeon E5-2687W v4,146
+12x 3.00 GHz (3.50 GHz) HT,
+Intel Core i3-7100T,146
+2x 3.40 GHz HT,
+Intel Core i7-5700HQ,145
+4x 2.70 GHz (3.50 GHz) HT,
+Intel Xeon E5-1650 v2,145
+6x 3.50 GHz (3.90 GHz) HT,
+Intel Core i3-4160,145
+2x 3.60 GHz HT,
+Intel Core i7-4790,145
+4x 3.60 GHz (4.00 GHz) HT,
+Intel Core i7-4790S,145
+4x 3.20 GHz (4.00 GHz) HT,
+Intel Core i5-4590,144
+4x 3.30 GHz (3.70 GHz),
+Intel Core i5-4590S,144
+4x 3.00 GHz (3.70 GHz),
+Intel Core i7-6650U,144
+2x 2.20 GHz (3.40 GHz) HT,
+Intel Core i7-6600U,144
+2x 2.60 GHz (3.40 GHz) HT,
+Intel Core i5-7260U,144
+2x 2.20 GHz (3.40 GHz) HT,
+Intel Xeon E3-1230 v3,144
+4x 3.30 GHz (3.70 GHz) HT,
+Intel Core i5-6440HQ,144
+4x 2.60 GHz (3.50 GHz),
+Intel Core i7-4810MQ,143
+4x 2.80 GHz (3.70 GHz) HT,
+Intel Core i5-7300HQ,143
+4x 2.50 GHz (3.50 GHz),
+Intel Xeon E5-2643 v3,142
+6x 3.40 GHz (3.70 GHz) HT,
+Intel Core i7-5930K,142
+6x 3.50 GHz (3.70 GHz) HT,
+Intel Core i3-4340,142
+2x 3.60 GHz HT,
+Intel Core i7-4800MQ,142
+4x 2.70 GHz (3.70 GHz) HT,
+Intel Xeon E5-2640 v4,142
+10x 2.40 GHz (3.40 GHz) HT,
+AMD Ryzen 3 2200G,142
+4x 3.50 GHz (3.70 GHz),
+Intel Core i3-4350,142
+2x 3.60 GHz HT,
+Intel Core i7-4770K,141
+4x 3.50 GHz (3.90 GHz) HT,
+AMD Epyc 7451,141
+24x 2.30 GHz (3.20 GHz) HT,
+AMD Epyc 7601,141
+32x 2.20 GHz (3.20 GHz) HT,
+Intel Core i7-4820K,141
+4x 3.70 GHz (3.90 GHz) HT,
+Intel Core i5-7500T,141
+4x 2.70 GHz (3.30 GHz),
+Intel Core i7-4770,141
+4x 3.40 GHz (3.90 GHz) HT,
+Intel Core i7-4770R,141
+4x 3.20 GHz (3.90 GHz) HT,
+Intel Core i3-8130U,141
+2x 2.20 GHz (3.40 GHz) HT,
+Intel Core i3-4150,141
+2x 3.50 GHz HT,
+Intel Core i7-4790T,141
+4x 2.70 GHz (3.90 GHz) HT,
+Intel Core i5-4570S,140
+4x 2.90 GHz (3.60 GHz),
+Intel Core i7 7Y75,140
+2x 1.30 GHz (3.30 GHz) HT,
+Intel Pentium G4400,140
+2x 3.30 GHz,
+Intel Core i5-6440EQ,140
+4x 2.70 GHz (3.40 GHz),
+Intel Core i7-3930k,140
+6x 3.20 GHz (3.80 GHz) HT,
+Intel Core i5-6267U,140
+2x 2.90 GHz (3.30 GHz) HT,
+Intel Core i7-5850EQ,140
+4x 2.70 GHz (3.40 GHz) HT,
+Intel Core i7-5750HQ,140
+4x 2.50 GHz (3.40 GHz) HT,
+Intel Core i5-4570,140
+4x 3.20 GHz (3.60 GHz),
+Intel Xeon Gold 5118,140
+12x 2.30 GHz (3.20 GHz) HT,
+Intel Xeon E3-1225 v3,140
+4x 3.20 GHz (3.60 GHz),
+Intel Core i5-6400,140
+4x 2.70 GHz (3.30 GHz),
+Intel Xeon Gold 5120,139
+14x 2.20 GHz (3.20 GHz) HT,
+Intel Xeon Gold 5119T,139
+14x 1.90 GHz (3.20 GHz) HT,
+Intel Core i5-8400T,139
+6x 1.70 GHz (3.30 GHz),
+AMD Ryzen 3 Pro 1200,139
+4x 3.10 GHz (3.40 GHz),
+Intel Core i7-4930K,139
+6x 3.40 GHz (3.90 GHz) HT,
+Intel Xeon Gold 5120T,139
+14x 2.20 GHz (3.20 GHz) HT,
+Intel Core i7-4850HQ,139
+4x 2.30 GHz (3.50 GHz) HT,
+Intel Xeon E5-2698 v3,139
+16x 2.30 GHz (3.60 GHz) HT,
+Intel Xeon E5-2667 v3,139
+8x 3.20 GHz (3.60 GHz) HT,
+AMD Ryzen 5 1400,139
+4x 3.20 GHz (3.40 GHz) HT,
+Intel Core i3-8121U,139
+2x 2.20 GHz (3.20 GHz) HT,
+Intel Xeon E5-2697 v3,139
+14x 2.60 GHz (3.60 GHz) HT,
+Intel Core i7-5557U,139
+2x 3.10 GHz (3.40 GHz) HT,
+AMD Ryzen 3 3300U,139
+4x 2.10 GHz (3.50 GHz),
+Intel Core i7-5820K,139
+6x 3.30 GHz (3.60 GHz) HT,
+Intel Xeon E3-1240L v5,138
+4x 2.10 GHz (3.20 GHz) HT,
+Intel Xeon E3-1265L v3,138
+4x 2.50 GHz (3.70 GHz) HT,
+AMD Ryzen 7 2700U,138
+4x 2.20 GHz (3.80 GHz) HT,
+AMD Ryzen 3 3200U,138
+2x 2.60 GHz (3.50 GHz) HT,
+Intel Pentium G5500T,138
+2x 3.20 GHz HT,
+AMD Ryzen 5 3500U,138
+4x 2.10 GHz (3.70 GHz) HT,
+AMD Athlon 300U,138
+2x 2.60 GHz (3.50 GHz) HT,
+Intel Xeon E5-2680 v4,138
+14x 2.40 GHz (3.30 GHz) HT,
+Intel Core i7-3770k,137
+4x 3.50 GHz (3.90 GHz) HT,
+Intel Pentium G3460,137
+2x 3.50 GHz,
+Intel Core i3-4330,137
+2x 3.50 GHz HT,
+Intel Core i3-8300T,137
+4x 3.20 GHz,
+Intel Xeon E5-2695 v4,137
+18x 2.20 GHz (3.30 GHz) HT,
+Intel Xeon E5-1630 v3,137
+4x 3.70 GHz (3.80 GHz) HT,
+Intel Core i3-4130,136
+2x 3.50 GHz HT,
+Intel Core i5-4340M,136
+2x 2.90 GHz (3.50 GHz) HT,
+Intel Celeron G4920,136
+2x 3.20 GHz,
+Intel Core i5-4690T,136
+4x 2.50 GHz (3.50 GHz),
+Intel Core i5 7Y54,136
+2x 1.20 GHz (3.20 GHz) HT,
+Intel Xeon E5-2687W v3,135
+10x 3.10 GHz (3.50 GHz) HT,
+Intel Xeon E5-2690 v3,135
+12x 2.60 GHz (3.50 GHz) HT,
+Intel Core i7-6560U,135
+2x 2.20 GHz (3.20 GHz) HT,
+Intel Core i5-5287U,135
+2x 2.90 GHz (3.30 GHz) HT,
+Intel Core i7-3970X,135
+6x 3.50 GHz (4.00 GHz) HT,
+Intel Core i3-6300T,135
+2x 3.30 GHz HT,
+Intel Xeon E5-2623 v4,134
+4x 2.60 GHz (3.20 GHz) HT,
+Intel Core i7-3770,134
+4x 3.40 GHz (3.90 GHz) HT,
+Intel Xeon E5-2637 v3,134
+4x 3.50 GHz (3.70 GHz) HT,
+Intel Core i7-4770T,134
+4x 2.50 GHz (3.70 GHz) HT,
+Intel Core i5-5575R,134
+4x 2.80 GHz (3.30 GHz),
+Intel Core i5-4330M,134
+2x 2.80 GHz (3.50 GHz) HT,
+AMD Ryzen 3 2300U,134
+4x 2.00 GHz (3.40 GHz),
+Intel Xeon E5-2660 v4,133
+14x 2.00 GHz (3.20 GHz) HT,
+Intel Pentium G5400T,133
+2x 3.10 GHz HT,
+Intel Pentium G3450,133
+2x 3.40 GHz,
+AMD Epyc 7401P,132
+24x 2.00 GHz (3.00 GHz) HT,
+Intel Core i3-8100T,132
+4x 3.10 GHz,
+Intel Core i5-7200U,132
+2x 2.50 GHz (3.10 GHz) HT,
+Intel Core i5-6500T,132
+4x 2.50 GHz (3.10 GHz),
+Intel Core i5-6300HQ,132
+4x 2.30 GHz (3.20 GHz),
+AMD Epyc 7401,132
+24x 2.00 GHz (3.00 GHz) HT,
+Intel Core i7-4650U,132
+2x 1.70 GHz (3.30 GHz) HT,
+Intel Core i7-6500U,132
+2x 2.50 GHz (3.10 GHz) HT,
+AMD Epyc 7551,132
+32x 2.00 GHz (3.00 GHz) HT,
+AMD Epyc 7501,132
+32x 2.00 GHz (3.00 GHz) HT,
+Intel Celeron G4900,132
+2x 3.10 GHz,
+AMD Epyc 7551P,132
+32x 2.00 GHz (3.00 GHz) HT,
+Intel Pentium G3440,132
+2x 3.30 GHz,
+Intel Core i5-4460S,132
+4x 2.90 GHz (3.40 GHz),
+Intel Core i5-4460,132
+4x 3.20 GHz (3.40 GHz),
+Intel Core i5-3570,132
+4x 3.40 GHz (3.80 GHz),
+Intel Core i5-3570K,132
+4x 3.40 GHz (3.80 GHz),
+Intel Pentium G3430,132
+2x 3.30 GHz,
+Intel Xeon E3-1220 v3,132
+4x 3.10 GHz (3.50 GHz),
+Intel Xeon Silver 4112,131
+4x 2.60 GHz (3.00 GHz) HT,
+Intel Xeon Silver 4110,131
+8x 2.10 GHz (3.00 GHz) HT,
+Intel Xeon Silver 4114T,131
+10x 2.20 GHz (3.00 GHz) HT,
+Intel Core i3-6100T,131
+2x 3.20 GHz HT,
+Intel Xeon Silver 4114,131
+10x 2.20 GHz (3.00 GHz) HT,
+Intel Core i5-6360U,131
+2x 2.00 GHz (3.10 GHz) HT,
+Intel Xeon Silver 4116,131
+12x 2.10 GHz (3.00 GHz) HT,
+Intel Xeon Silver 4116T,131
+12x 2.10 GHz (3.00 GHz) HT,
+Intel Core i7-5600U,131
+2x 2.60 GHz (3.20 GHz) HT,
+Intel Xeon Silver 4109T,131
+8x 2.00 GHz (3.00 GHz) HT,
+Intel Core i7-5650U,131
+2x 2.20 GHz (3.20 GHz) HT,
+Intel Xeon Silver 4108,130
+8x 1.80 GHz (3.00 GHz) HT,
+Intel Core m7-6Y75,130
+2x 1.20 GHz (3.10 GHz) HT,
+AMD Ryzen 5 2500U,130
+4x 2.00 GHz (3.60 GHz) HT,
+Intel Xeon E5-1620 v3,130
+4x 3.50 GHz (3.60 GHz) HT,
+AMD Ryzen 3 1200,129
+4x 3.10 GHz (3.45 GHz),
+Intel Pentium G3420,129
+2x 3.20 GHz,
+Intel Core i7-4558U,129
+2x 2.80 GHz (3.30 GHz) HT,
+Intel Core i3-4360T,129
+2x 3.20 GHz HT,
+Intel Pentium G4600T,129
+2x 3.00 GHz HT,
+AMD Ryzen 3 2200U,129
+2x 2.50 GHz (3.40 GHz) HT,
+Intel Xeon E5-2630 v4,129
+10x 2.20 GHz (3.10 GHz) HT,
+Intel Pentium G3258,129
+2x 3.20 GHz,
+AMD Epyc 7351P,128
+16x 2.40 GHz (2.90 GHz) HT,
+Intel Core i5-4440,128
+4x 3.10 GHz (3.30 GHz),
+AMD Epyc 7351,128
+16x 2.40 GHz (2.90 GHz) HT,
+Intel Core i5-4670T,128
+4x 2.30 GHz (3.30 GHz),
+Intel Core i5-7400T,128
+4x 2.40 GHz (3.00 GHz),
+Intel Core i7-2600K,128
+4x 3.40 GHz (3.80 GHz) HT,
+AMD Epyc 7251,128
+8x 2.10 GHz (2.90 GHz) HT,
+Intel Core i3-7100H,128
+2x 3.00 GHz HT,
+Intel Xeon E5-2650 v2,128
+8x 2.60 GHz (3.40 GHz) HT,
+Intel Celeron G3950,127
+2x 3.00 GHz,
+Intel Xeon E5-2680 v3,127
+12x 2.50 GHz (3.30 GHz) HT,
+Intel Xeon E5-2660 v3,127
+10x 2.60 GHz (3.30 GHz) HT,
+Intel Pentium G4500T,127
+2x 3.00 GHz,
+Intel Xeon E5-2695 v3,127
+14x 2.30 GHz (3.30 GHz) HT,
+Intel Core i5-6300U,127
+2x 2.40 GHz (3.00 GHz) HT,
+Intel Core i5-2500k,127
+4x 3.30 GHz (3.70 GHz),
+Intel Xeon E3-1235L v5,126
+4x 2.00 GHz (3.00 GHz),
+Intel Core i5-5257U,126
+2x 2.70 GHz (3.10 GHz) HT,
+Intel Core i7-4750HQ,126
+4x 2.00 GHz (3.20 GHz) HT,
+Intel Core i5-4310M,126
+2x 2.70 GHz (3.30 GHz) HT,
+Intel Xeon E5-2623 v3,126
+4x 3.00 GHz (3.50 GHz) HT,
+Intel Xeon E5-2620 v4,125
+8x 2.10 GHz (3.00 GHz) HT,
+Intel Core i3-4160T,125
+2x 3.10 GHz HT,
+Intel Pentium G3250,125
+2x 3.20 GHz,
+Intel Xeon E5-2683 v4,125
+16x 2.10 GHz (3.00 GHz) HT,
+AMD Athlon 200GE,125
+2x 3.20 GHz (3.20 GHz),
+Intel Pentium G4560T,125
+2x 2.90 GHz HT,
+Intel Core i5-4300M,124
+2x 2.60 GHz (3.30 GHz) HT,
+Intel Core i7-4510U,124
+2x 2.00 GHz (3.10 GHz) HT,
+Intel Core i5-4570R,124
+4x 2.70 GHz (3.20 GHz),
+Intel Core i7-4700HQ,124
+4x 2.40 GHz (3.40 GHz) HT,
+Intel Core i5-4430,124
+4x 3.00 GHz (3.20 GHz),
+Intel Core i7-4700MQ,124
+4x 2.40 GHz (3.40 GHz) HT,
+Intel Pentium G3240,123
+2x 3.10 GHz,
+Intel Core i7-5500U,123
+2x 2.40 GHz (3.00 GHz) HT,
+Intel Core i7-5550U,123
+2x 2.00 GHz (3.00 GHz) HT,
+Intel Pentium G4400T,123
+2x 2.90 GHz,
+Intel Celeron G3930T,123
+2x 2.70 GHz,
+Intel Celeron G3920,123
+2x 2.90 GHz,
+Intel Celeron G3930,123
+2x 2.90 GHz,
+Intel Xeon E5-2620 v3,123
+6x 2.40 GHz (3.20 GHz) HT,
+Intel Xeon Platinum 8153,122
+16x 2.00 GHz (2.80 GHz) HT,
+Intel Core i3-4350T,122
+2x 3.10 GHz HT,
+Intel Xeon Gold 5115,122
+10x 2.40 GHz (2.80 GHz) HT,
+Intel Xeon Gold 5117,122
+14x 2.00 GHz (2.80 GHz) HT,
+Intel Xeon Gold 5117F,122
+14x 2.00 GHz (2.80 GHz) HT,
+Intel Core i5-6260U,122
+2x 1.80 GHz (2.90 GHz) HT,
+Intel Core i3-3250,122
+2x 3.50 GHz HT,
+Intel Xeon E5-2650 v4,121
+12x 2.20 GHz (2.90 GHz) HT,
+Intel Xeon E5-2630L v4,121
+10x 1.80 GHz (2.90 GHz) HT,
+Intel Core i3-7167U,120
+2x 2.80 GHz HT,
+Intel Core i7-4500U,120
+2x 1.80 GHz (3.00 GHz) HT,
+Intel Core i7-4600U,120
+2x 2.10 GHz (3.30 GHz) HT,
+Intel Core M-5Y71,119
+2x 1.20 GHz (2.90 GHz) HT,
+Intel Core i3-3240,119
+2x 3.40 GHz HT,
+Intel Celeron G3900,119
+2x 2.80 GHz,
+AMD Epyc 7301,119
+16x 2.20 GHz (2.70 GHz) HT,
+Intel Core i5-6200U,119
+2x 2.30 GHz (2.80 GHz) HT,
+Intel Core i3-3245,119
+2x 3.40 GHz HT,
+Intel Celeron G4900T,119
+2x 2.80 GHz,
+AMD Epyc 7281,119
+16x 2.20 GHz (2.70 GHz) HT,
+Intel Xeon E5-2670 v3,119
+12x 2.30 GHz (3.10 GHz) HT,
+Intel Core i5-6400T,119
+4x 2.20 GHz (2.80 GHz),
+Intel Core i5-5300U,118
+2x 2.30 GHz (2.90 GHz) HT,
+Intel Core i5-5350U,118
+2x 1.80 GHz (2.90 GHz) HT,
+Intel Xeon E3-1505L v5,118
+4x 2.00 GHz (2.80 GHz) HT,
+Intel Xeon E5-2630 v2,117
+6x 2.60 GHz (3.10 GHz) HT,
+Intel Pentium G3220,117
+2x 3.00 GHz,
+Intel Core m5-6Y57,117
+2x 1.10 GHz (2.80 GHz) HT,
+Intel Core i5-4590T,117
+4x 2.00 GHz (3.00 GHz),
+Intel Core i7-4702MQ,117
+4x 2.20 GHz (3.20 GHz) HT,
+Intel Core i7-4702HQ,117
+4x 2.20 GHz (3.20 GHz) HT,
+Intel Core i7-4785T,116
+4x 2.20 GHz (3.20 GHz) HT,
+Intel Core i5-4258U,116
+2x 2.40 GHz (2.90 GHz) HT,
+Intel Xeon E5-2683 v3,115
+14x 2.00 GHz (3.00 GHz) HT,
+Intel Core i3-4150T,115
+2x 3.00 GHz HT,
+Intel Core i3-4330T,115
+2x 3.00 GHz HT,
+Intel Core i3-6167U,115
+2x 2.70 GHz HT,
+Intel Core i5-4200M,115
+2x 2.50 GHz (3.10 GHz) HT,
+Intel Core i3-3220,115
+2x 3.30 GHz HT,
+Intel Xeon E5-2650 v3,115
+10x 2.30 GHz (3.00 GHz) HT,
+Intel Core i3-3225,115
+2x 3.30 GHz HT,
+Intel Core i5-4300U,114
+2x 1.90 GHz (2.90 GHz) HT,
+AMD FX-9590,114
+8x 4.70 GHz (5.00 GHz),
+Intel Pentium G3440T,113
+2x 2.80 GHz,
+Intel Pentium G3450T,113
+2x 2.90 GHz,
+Intel Core m5-6Y54,113
+2x 1.10 GHz (2.70 GHz) HT,
+Intel Xeon E5-2660 v2,113
+10x 2.20 GHz (3.00 GHz) HT,
+Intel Xeon E5-2670 v2,113
+10x 2.50 GHz (3.30 GHz) HT,
+Intel Core i3-6100H,112
+2x 2.70 GHz HT,
+Intel Xeon E5-2658 v3,112
+12x 2.20 GHz (2.90 GHz) HT,
+Intel Core i5-6442EQ,111
+4x 1.90 GHz (2.70 GHz),
+Intel Core i5-4310U,111
+2x 2.00 GHz (2.90 GHz) HT,
+Intel Core m3 7Y30,111
+2x 1.00 GHz (2.60 GHz) HT,
+Intel Core i5-5200U,110
+2x 2.20 GHz (2.70 GHz) HT,
+Intel Core i5-5250U,110
+2x 1.60 GHz (2.70 GHz) HT,
+Intel Celeron G1850,110
+2x 2.90 GHz,
+Intel Core i3-3210,110
+2x 3.20 GHz HT,
+Intel Celeron G3900T,110
+2x 2.60 GHz,
+Intel Pentium G3240T,109
+2x 2.70 GHz,
+Intel Core i3-4130T,109
+2x 2.90 GHz HT,
+Intel Pentium G3250T,109
+2x 2.80 GHz,
+Intel Core i5-4360U,109
+2x 1.50 GHz (2.90 GHz) HT,
+Intel Pentium G2030,109
+2x 3.00 GHz,
+Intel Xeon E3-1230L v3,108
+4x 1.80 GHz (2.80 GHz) HT,
+Intel Core M-5Y70,107
+2x 1.10 GHz (2.60 GHz) HT,
+Intel Core M-5Y51,107
+2x 1.10 GHz (2.60 GHz) HT,
+Intel Celeron G1830,106
+2x 2.80 GHz,
+Intel Celeron G1840,106
+2x 2.80 GHz,
+Intel Core i5-4350U,106
+2x 1.40 GHz (2.90 GHz) HT,
+Intel Pentium G3220T,105
+2x 2.60 GHz,
+Intel Core i5-4460T,105
+4x 1.90 GHz (2.70 GHz),
+Intel Xeon E5-2650L v4,104
+14x 1.70 GHz (2.50 GHz) HT,
+Intel Core i3-3250T,103
+2x 3.00 GHz HT,
+Intel Core i3-7100U,103
+2x 2.40 GHz HT,
+Intel Core i5-4260U,103
+2x 1.40 GHz (2.70 GHz) HT,
+Intel Core i3-5157U,102
+2x 2.50 GHz HT,
+Intel Celeron G1820,102
+2x 2.70 GHz,
+Intel Pentium G2020,101
+2x 2.90 GHz,
+Intel Core i3-3240T,99
+2x 2.90 GHz HT,
+Intel Core i3-4100M,99
+2x 2.50 GHz HT,
+Intel Celeron G1630,99
+2x 2.80 GHz,
+Intel Core i5-4250U,99
+2x 1.30 GHz (2.60 GHz) HT,
+Intel Pentium 4415U,98
+2x 2.30 GHz HT,
+Intel Xeon E5-2620 v2,98
+6x 2.10 GHz (2.60 GHz) HT,
+Intel Core M-5Y31,98
+2x 0.90 GHz (2.40 GHz) HT,
+Intel Core i3-6100U,98
+2x 2.30 GHz HT,
+AMD FX-8310,98
+8x 3.40 GHz (4.30 GHz),
+Intel Xeon E5-2697 v2,98
+12x 2.70 GHz (3.50 GHz) HT,
+AMD FX-8370E,98
+8x 3.30 GHz (4.30 GHz),
+AMD FX-8370,98
+8x 4.00 GHz (4.30 GHz),
+AMD Phenom II X4 980,97
+4x 3.70 GHz,
+AMD FX-8300,96
+8x 3.30 GHz (4.20 GHz),
+Intel Xeon E5-2628L v3,96
+10x 2.00 GHz (2.50 GHz) HT,
+Intel Xeon E5-2648L v3,96
+12x 1.80 GHz (2.50 GHz) HT,
+AMD FX-8350,96
+8x 4.00 GHz (4.20 GHz),
+Intel Xeon E5-2650L v3,96
+12x 1.80 GHz (2.50 GHz) HT,
+Intel Core i3-4000M,95
+2x 2.40 GHz HT,
+Intel Celeron G1840T,95
+2x 2.50 GHz,
+Intel Pentium G2010,95
+2x 2.80 GHz,
+Intel Celeron G1620,95
+2x 2.70 GHz,
+Intel Xeon E5-2640 v2,94
+8x 2.00 GHz (2.50 GHz) HT,
+AMD Athlon II X4 860K,94
+4x 3.70 GHz (4.00 GHz),
+Intel Xeon E7-4890 v2,94
+15x 2.80 GHz (3.40 GHz) HT,
+Intel Core i3-3220T,94
+2x 2.80 GHz HT,
+AMD Phenom II X4 975,94
+4x 3.60 GHz,
+AMD FX-6300,94
+6x 3.50 GHz (4.10 GHz),
+AMD A8-6600K,94
+4x 3.90 GHz (4.20 GHz),
+AMD Athlon X4 845,93
+4x 3.50 GHz (3.80 GHz),
+AMD Phenom II X6 1100T,93
+6x 3.30 GHz (3.70 GHz),
+Intel Celeron G1610,92
+2x 2.60 GHz,
+Intel Core i5-4210U,92
+2x 1.70 GHz (2.70 GHz) HT,
+Intel Core m3-6Y30,92
+2x 0.90 GHz (2.20 GHz) HT,
+AMD Phenom II X4 970,92
+4x 3.50 GHz,
+AMD Phenom II X2 521,92
+2x 3.50 GHz,
+AMD FX-8320,91
+8x 3.50 GHz (4.00 GHz),
+Intel Celeron G1820T,91
+2x 2.40 GHz,
+AMD A10-5800K,91
+4x 3.80 GHz (4.20 GHz),
+AMD FX-8320E,91
+8x 3.20 GHz (4.00 GHz),
+AMD Phenom II X6 1090T,90
+6x 3.20 GHz (3.60 GHz),
+AMD A8-6500,90
+4x 3.50 GHz (4.10 GHz),
+AMD Athlon II X2 370K,90
+2x 4.00 GHz (4.20 GHz),
+AMD Phenom II X2 565,89
+2x 3.40 GHz,
+Intel Celeron 2970M,89
+2x 2.20 GHz,
+AMD FX-8120,89
+8x 3.10 GHz (4.00 GHz),
+Intel Core i5-4200U,89
+2x 1.60 GHz (2.60 GHz) HT,
+AMD Phenom II X2 511,89
+2x 3.40 GHz,
+AMD Phenom II X2 B59,89
+2x 3.40 GHz,
+Intel Pentium 4405U,89
+2x 2.10 GHz HT,
+AMD Phenom II X4 960T,89
+4x 3.00 GHz (3.40 GHz),
+AMD Phenom II X4 965,89
+4x 3.40 GHz,
+AMD Phenom II X6 1075T,88
+6x 3.00 GHz (3.50 GHz),
+AMD Athlon II X4 760K,88
+4x 3.80 GHz (4.10 GHz),
+AMD Phenom II X2 560,87
+2x 3.30 GHz,
+AMD Phenom II X4 B99,87
+4x 3.30 GHz,
+AMD Phenom II X4 850,87
+4x 3.30 GHz,
+Intel Core i3-5010U,86
+2x 2.10 GHz HT,
+AMD Athlon II X4 750K,86
+4x 3.40 GHz (4.00 GHz),
+AMD Phenom II X6 1065T,85
+6x 2.90 GHz (3.40 GHz),
+Intel Celeron 3955U,85
+2x 2.00 GHz,
+Intel Celeron G1620T,84
+2x 2.40 GHz,
+Intel Core i3-4158U,84
+2x 2.00 GHz HT,
+AMD Phenom II X4 955,84
+4x 3.20 GHz,
+AMD Phenom II X2 555,84
+2x 3.20 GHz,
+AMD Phenom II X4 840T,84
+4x 2.90 GHz (3.20 GHz),
+AMD Phenom II X4 840,84
+4x 3.20 GHz,
+AMD Phenom II X3 B77,84
+3x 3.20 GHz,
+AMD Phenom II X4 B97,84
+4x 3.20 GHz,
+AMD Phenom II X2 B57,84
+2x 3.20 GHz,
+AMD Phenom II X6 1055T,83
+6x 2.80 GHz (3.30 GHz),
+AMD Athlon X4 835,83
+4x 3.10 GHz (3.40 GHz),
+Intel Core i3-5005U,82
+2x 2.00 GHz HT,
+AMD Phenom II X2 550,82
+2x 3.10 GHz,
+Intel Pentium J5005,82
+4x 1.50 GHz (2.80 GHz),
+Intel Celeron G1820TE,82
+2x 2.20 GHz HT,
+Intel Core M-5Y10c,82
+2x 0.80 GHz (2.00 GHz) HT,
+Intel Core M-5Y10,82
+2x 0.80 GHz (2.00 GHz) HT,
+Intel Core M-5Y10a,82
+2x 0.80 GHz (2.00 GHz) HT,
+Intel Celeron G1610T,81
+2x 2.30 GHz,
+AMD Phenom II X6 1045T,80
+6x 2.70 GHz (3.20 GHz),
+AMD Athlon II X4 740,80
+4x 3.20 GHz (3.70 GHz),
+AMD Phenom II X2 545,79
+2x 3.00 GHz,
+Intel Celeron J4005,79
+2x 2.00 GHz (2.70 GHz),
+AMD Phenom II X2 B55,79
+2x 3.00 GHz,
+AMD Phenom II X3 740,79
+3x 3.00 GHz,
+AMD Phenom II X3 B75,79
+3x 3.00 GHz,
+AMD Phenom II X4 945,79
+4x 3.00 GHz,
+AMD Phenom II X4 940,79
+4x 3.00 GHz,
+Intel Celeron 2950M,79
+2x 2.00 GHz,
+AMD Phenom II X4 B95,79
+4x 3.00 GHz,
+Intel Pentium N5000,78
+4x 1.10 GHz (2.70 GHz),
+AMD Phenom II X6 1035T,78
+6x 2.60 GHz (3.10 GHz),
+Intel Pentium 3805U,77
+2x 1.90 GHz,
+Intel Xeon E5-2608L v3,77
+6x 2.00 GHz HT,
+AMD Athlon II X2 340,77
+2x 3.20 GHz (3.60 GHz),
+AMD A8-3870K,77
+4x 3.10 GHz,
+Intel Pentium 3825U,77
+2x 1.90 GHz HT,
+Intel Celeron 3765U,77
+2x 1.90 GHz,
+Intel Xeon E5-2690 v2,76
+10x 3.00 GHz (3.60 GHz) HT,
+Intel Core i5-4200Y,76
+2x 1.40 GHz (1.90 GHz) HT,
+Intel Xeon Bronze 3104,75
+6x 1.70 GHz,
+Intel Xeon Bronze 3106,75
+8x 1.70 GHz,
+AMD Phenom II X3 715,74
+3x 2.80 GHz,
+AMD Phenom II X3 720,74
+3x 2.80 GHz,
+AMD Phenom II X4 925,74
+4x 2.80 GHz,
+AMD Phenom II X3 B73,74
+3x 2.80 GHz,
+AMD Phenom II X4 820,74
+4x 2.80 GHz,
+AMD Phenom II X2 B53,74
+2x 2.80 GHz,
+AMD Phenom II X4 830,74
+4x 2.80 GHz,
+AMD Phenom II X4 B93,74
+4x 2.80 GHz,
+AMD A10-6800K,74
+4x 4.10 GHz (4.40 GHz),
+AMD Phenom II X4 920,74
+4x 2.80 GHz,
+AMD A10-5750M,73
+4x 2.50 GHz (3.50 GHz),
+Intel Core i5-4210Y,73
+2x 1.50 GHz (1.90 GHz) HT,
+AMD A10-5757M,73
+4x 2.50 GHz (3.50 GHz),
+AMD FX-6100,73
+6x 3.30 GHz (3.90 GHz),
+Intel Celeron J4105,73
+4x 1.50 GHz (2.50 GHz),
+Intel Core i3-4100U,73
+2x 1.80 GHz HT,
+Intel Xeon E5-2609 v3,73
+6x 1.90 GHz,
+Intel Xeon E5-2609 v4,71
+8x 1.70 GHz,
+Intel Xeon E5-2603 v4,71
+6x 1.70 GHz,
+AMD A4-4000,69
+2x 3.00 GHz (3.20 GHz),
+Intel Core i3-3227U,69
+2x 1.90 GHz HT,
+AMD A10-6790K,69
+4x 4.10 GHz (4.30 GHz),
+Intel Celeron 3755U,69
+2x 1.70 GHz,
+Intel Celeron 3215U,69
+2x 1.70 GHz,
+AMD Phenom II X4 810,68
+4x 2.60 GHz,
+AMD Phenom II X4 910,68
+4x 2.60 GHz,
+Intel Celeron 3855U,68
+2x 1.60 GHz,
+AMD Phenom II X4 910e,68
+4x 2.60 GHz,
+AMD Phenom II X3 710,68
+3x 2.60 GHz,
+AMD A10-6700,67
+4x 3.70 GHz (4.30 GHz),
+Intel Core i3-4005U,67
+2x 1.70 GHz HT,
+AMD Phenom II X4 805,66
+4x 2.50 GHz,
+AMD A10-7870K,66
+4x 3.90 GHz (4.10 GHz),
+AMD A4-3400,66
+2x 2.70 GHz,
+AMD Phenom II X3 705e,66
+3x 2.50 GHz,
+AMD A8-7670K,66
+4x 3.60 GHz (3.90 GHz),
+AMD Phenom II X4 905e,66
+4x 2.50 GHz,
+AMD A8-6500T,65
+4x 2.10 GHz (3.10 GHz),
+AMD A10-4657M,65
+4x 2.30 GHz (3.20 GHz),
+Intel Core i3-4030U,65
+2x 1.90 GHz HT,
+Intel Pentium 4405Y,64
+2x 1.50 GHz HT,
+AMD A10-7850K,64
+4x 3.70 GHz (4.00 GHz),
+Intel Celeron 2980U,63
+2x 1.40 GHz,
+AMD A10-4600M,63
+4x 2.30 GHz (3.20 GHz),
+AMD Phenom II X4 900e,63
+4x 2.40 GHz,
+AMD Phenom II X3 700e,63
+3x 2.40 GHz,
+Intel Xeon E5-2603 v3,62
+6x 1.60 GHz,
+AMD A10-7800,61
+4x 3.50 GHz (3.90 GHz),
+AMD A8-4500M,61
+4x 1.90 GHz (2.80 GHz),
+AMD A8-7650K,61
+4x 3.30 GHz (3.80 GHz),
+Intel Celeron 3205U,61
+2x 1.50 GHz,
+AMD A8-7600,61
+4x 3.10 GHz (3.80 GHz),
+Intel Core i3-4010U,58
+2x 1.70 GHz HT,
+Intel Core i5-4302Y,58
+2x 1.60 GHz (2.30 GHz) HT,
+Intel Core i3-4020Y,58
+2x 1.50 GHz HT,
+AMD A10-7700K,57
+4x 3.50 GHz (3.80 GHz),
+Intel Xeon E3-1220L v3,57
+4x 1.10 GHz (1.50 GHz) HT,
+Intel Celeron 2955U,56
+2x 1.40 GHz,
+AMD A10-5700,56
+4x 3.40 GHz (4.00 GHz),
+AMD A10-5745M,54
+4x 2.10 GHz (2.90 GHz),
+Intel Celeron 2957U,54
+2x 1.40 GHz,
+AMD A10-7350B,53
+4x 2.10 GHz (3.30 GHz),
+AMD A8-7200P,53
+4x 2.40 GHz (3.30 GHz),
+Intel Celeron 1007U,52
+2x 1.50 GHz,
+AMD A10-4655M,52
+4x 2.00 GHz (2.80 GHz),
+Intel Pentium J4205,52
+4x 1.50 GHz (2.60 GHz),
+AMD A8-7150B,51
+4x 1.90 GHz (3.20 GHz),
+Intel Celeron J3355,50
+2x 2.00 GHz (2.50 GHz),
+Intel Pentium N4200,50
+4x 1.10 GHz (2.50 GHz),
+AMD A10-6700T,50
+4x 2.50 GHz (3.50 GHz),
+AMD A8-6410,49
+4x 2.00 GHz (2.40 GHz),
+AMD A6-6310,48
+4x 2.00 GHz (2.40 GHz),
+Intel Celeron N3350,48
+2x 1.10 GHz (2.40 GHz),
+AMD A10-7400P,48
+4x 2.50 GHz (3.00 GHz),
+AMD A8-7100,48
+4x 1.80 GHz (3.00 GHz),
+Intel Celeron J3455,47
+4x 1.50 GHz (2.30 GHz),
+Intel Core i5-2467M,46
+2x 1.60 GHz (2.30 GHz) HT,
+Intel Core i3-4010Y,45
+2x 1.30 GHz HT,
+Intel Pentium D1508,44
+2x 2.20 GHz (2.60 GHz) HT,
+Intel Pentium J2900,44
+4x 2.41 GHz (2.67 GHz),
+AMD Athlon 5350,44
+4x 2.05 GHz,
+Intel Celeron N3450,44
+4x 1.10 GHz (2.20 GHz),
+AMD A10-7300,44
+4x 1.90 GHz (3.20 GHz),
+Intel Pentium N3710,43
+4x 1.60 GHz (2.56 GHz),
+Intel Atom x7-Z8750,43
+4x 1.60 GHz (2.56 GHz),
+Intel Pentium J3710,42
+4x 1.60 GHz (2.64 GHz),
+Intel Celeron J1800,42
+2x 2.41 GHz (2.58 GHz),
+Intel Celeron N3060,42
+2x 1.60 GHz (2.48 GHz),
+Intel Celeron N2840,42
+2x 2.16 GHz (2.58 GHz),
+Intel Celeron J3060,42
+2x 1.60 GHz (2.48 GHz),
+Intel Pentium N3540,41
+4x 2.16 GHz (2.66 GHz),
+Intel Atom x7-Z8700,40
+4x 1.60 GHz (2.40 GHz),
+Intel Pentium N3700,40
+4x 1.60 GHz (2.40 GHz),
+Intel Atom x5-Z8550,40
+4x 1.44 GHz (2.40 GHz),
+Intel Pentium N3530,40
+4x 2.16 GHz (2.58 GHz),
+Intel Celeron J1750,39
+2x 2.41 GHz,
+Intel Celeron 2961Y,39
+2x 1.10 GHz,
+Intel Pentium N3510,39
+4x 2.40 GHz,
+Intel Celeron N2830,39
+2x 2.16 GHz (2.41 GHz),
+Intel Celeron J1900,39
+4x 2.00 GHz (2.42 GHz),
+Intel Atom x5-Z8500,38
+4x 1.44 GHz (2.24 GHz),
+Intel Pentium N3520,38
+4x 2.17 GHz (2.42 GHz),
+Intel Celeron J3160,38
+4x 1.60 GHz (2.24 GHz),
+Intel Celeron N2940,38
+4x 1.83 GHz (2.25 GHz),
+Intel Celeron N3160,38
+4x 1.60 GHz (2.24 GHz),
+Intel Celeron N3010,38
+2x 1.04 GHz (2.24 GHz),
+Intel Celeron N2820,37
+2x 2.13 GHz (2.39 GHz),
+Intel Pentium D1517,37
+4x 1.60 GHz (2.20 GHz) HT,
+Intel Celeron N2808,36
+2x 1.58 GHz (2.25 GHz),
+Intel Celeron N3050,36
+2x 1.60 GHz (2.16 GHz),
+Intel Celeron N3150,35
+4x 1.60 GHz (2.08 GHz),
+Intel Celeron N3000,35
+2x 1.04 GHz (2.08 GHz),
+Intel Celeron N2807,34
+2x 1.58 GHz (2.16 GHz),
+Intel Celeron N2815,33
+2x 1.86 GHz (2.13 GHz),
+AMD Athlon 5150,33
+4x 1.60 GHz,
+Intel Celeron J1850,32
+4x 2.00 GHz,
+Intel Celeron N2920,32
+4x 1.86 GHz (2.00 GHz),
+Intel Atom x5-Z8350,32
+4x 1.44 GHz (1.92 GHz),
+Intel Celeron N2810,31
+2x 2.00 GHz,
+Intel Atom x5-Z8300,31
+4x 1.44 GHz (1.84 GHz),
+Intel Celeron N2806,31
+2x 1.60 GHz (2.00 GHz),
+Intel Celeron N2930,30
+4x 1.83 GHz (2.16 GHz),
+AMD A4-5000,28
+4x 1.50 GHz,
+AMD E1-6010,27
+2x 1.35 GHz,
+Intel Celeron N2910,26
+4x 1.60 GHz,
+Intel Pentium D1509,25
+2x 1.50 GHz (1.50 GHz),
+Intel Celeron N2805,23
+2x 1.46 GHz,
+Intel Pentium D1507,20
+2x 1.20 GHz (1.20 GHz),
