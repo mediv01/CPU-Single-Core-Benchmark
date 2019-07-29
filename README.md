@@ -16,7 +16,6 @@ site on Baidu Cloud Drive：
 https://pan.baidu.com/s/1NRmSR0Ki3CPvc6j78iVhyA    提取码:ypic 
 
 知乎专栏转载：
-https://www.zhihu.com/people/mediv01/posts
 https://zhuanlan.zhihu.com/p/60979503
 
 因为GITHUB上无法评论，有任何建议欢迎到我的知乎专栏提出。
